@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sridharcharan
-- 👀 I’m interested in Artifical Intelligence
+- 👀 I’m interested in Artifical Intelligence, NLP
 - 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
